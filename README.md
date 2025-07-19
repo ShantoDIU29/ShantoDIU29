@@ -8,7 +8,8 @@ A programmer is a skilled professional who writes, tests, and maintains code to 
 Skills: C/ C++/ data structure / HTML / CSS/OOP
 
 - 🔭 I’m currently working on Student 
-- 🌱 I’m currently learning C++ 
+- 🌱 C,C++ ,Python,Java,OOP ,DBMS
+- HTML,CSS,Javascript
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Programming 
 - 😄 Pronouns: aditto 
