@@ -3,47 +3,53 @@
 # Hi there 👋, I'm **Shanto Roy**
 #### I am a Passionate Programmer & Learner 💻
 
-A programmer is a skilled professional who **writes, tests, and maintains code** to create software applications, websites, and more.  
-I enjoy learning **new technologies**, solving **complex problems**, and contributing to **open-source projects**.
+A programmer who loves **coding, problem solving, and learning new technologies**.  
+I build projects, explore **frontend & backend**, and contribute to **open-source**.
 
 ---
 
-## 💻 Skills
+## 💻 Skills & Proficiency
 
 **Languages & Tools:**  
 `C` `C++` `Python` `Java` `HTML` `CSS` `JavaScript` `OOP` `DBMS`  
 
-**Areas of Interest:**  
-- Web Development 🌐  
-- Data Structures & Algorithms 📊  
-- Backend Development with Python & Django 🐍  
+**Skill Bars:**
+
+![Python](https://img.shields.io/badge/Python-95%25-brightgreen?style=for-the-badge&logo=python)  
+![C++](https://img.shields.io/badge/C++-85%25-blue?style=for-the-badge&logo=c%2B%2B)  
+![HTML](https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge&logo=html5)  
+![CSS](https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge&logo=css3)  
+![JavaScript](https://img.shields.io/badge/JS-80%25-yellow?style=for-the-badge&logo=javascript)  
+![DBMS](https://img.shields.io/badge/DBMS-75%25-red?style=for-the-badge)  
 
 ---
 
 ## 🔭 Currently Working On
-- Enhancing **Python & OOP Skills**  
-- Practicing **Frontend: HTML, CSS, JS**  
-- Small **Python Projects & DBMS**  
+- Python & OOP Projects 🐍  
+- Frontend Design: HTML, CSS, JS 🎨  
+- DBMS Practice & Small Projects 💾  
 
 ---
 
 ## 🌱 Learning
-- Advanced **Python, OOP, Django**  
+- Advanced **Python, Django**  
 - Modern **Frontend Frameworks**  
-- Algorithms & Competitive Programming  
+- Algorithms & Competitive Programming 📊  
 
 ---
 
 ## 👯 Collaboration
 - Open to collaborate on **GitHub projects**  
-- Happy to discuss **coding challenges** and **projects**  
+- Discuss **coding challenges & projects**  
 
 ---
 
 ## ⚡ Fun Facts
 - Love making **funny videos** 🎬  
-- Coffee & code ☕💻  
-- Always exploring **new tech trends** 🌟  
+- Coffee & coding ☕💻  
+- Exploring **tech trends** 🌟  
+
+![Funny GIF](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)
 
 ---
 
