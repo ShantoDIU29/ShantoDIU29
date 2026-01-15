@@ -16,7 +16,8 @@ Currently learning **Python, Django, and Competitive Programming**.
 ## 📌 Currently Working On
 - Python & OOP Projects 🐍  
 - Frontend (HTML, CSS, JS) 🎨  
-- DBMS Practice 💾  
+- DBMS Practice 💾
+- Learn JavaScript
 
 ---
 
